@@ -1,0 +1,30 @@
+
+
+nav ul li a:hover {
+    color: #03c61a;
+}
+
+nav {
+    float: right;
+    padding: 25px;
+}
+
+
+html {
+    position: relative;
+    background-color: rgb(211, 187, 106);
+}
+
+
+.cImage {
+    width: 480px; 
+    height: auto; 
+    padding: 25px;
+    float: right;
+}
+
+
+#main-header {
+    font-size: 1.5em;
+    color: rgb(109, 97, 2);
+}
